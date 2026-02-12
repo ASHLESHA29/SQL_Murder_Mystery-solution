@@ -1,4 +1,5 @@
 # SQL Murder Mystery - Case Study
+- SQL Murder Mystery: https://mystery.knightlab.com/
 
 ## Objective
 Solve a fictional murder case using SQL queries and data analysis.
