@@ -71,8 +71,4 @@ Used physical description and event attendance data to find the mastermind.
 - DB Browser
 - GitHub
 
----
-
-## Author
-Ashlesha Sirsikar
 
